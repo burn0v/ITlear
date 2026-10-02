@@ -1,5 +1,0 @@
-a = int(input('Введите число: '))
-b = int(input('Введите число: '))
-c = int(input('Введите число: '))
-mdl =  float((a + b + c)/3)
-print('Среднее занчение: ', round(mdl, 2))
